@@ -1,0 +1,22 @@
+{
+  "name": "com.luck9kr.uisystem",
+  "displayName": "UISystem",
+  "version": "0.1.4",
+  "unity": "6000.3",
+  "unityRelease": "14f1",
+  "description": "Replace this with your own description of the package. \n\nFor best results, use this text to summarize: \n\u25aa What the package does \n\u25aa How it can benefit the user \n\nNote: Special formatting characters are supported, including line breaks ('\\n') and bullets ('\\u25AA').",
+  "samples": [
+    {
+      "displayName": "UISystem Basic Sample",
+      "description": "UI Root, View, Popup \uae30\ubcf8 \uc138\ud305 \uc608\uc81c\uc785\ub2c8\ub2e4.",
+      "path": "Samples~/BasicSample"
+    }
+  ],
+  "dependencies": {
+    "com.unity.addressables": "2.9.1"
+  },
+  "author": {
+    "name": "minchul",
+    "email": "luck9kr@gmail.com"
+  }
+}

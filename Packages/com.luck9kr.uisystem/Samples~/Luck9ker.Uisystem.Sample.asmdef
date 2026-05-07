@@ -1,0 +1,16 @@
+{
+    "name": "Luck9ker.Uisystem.Sample",
+    "rootNamespace": "",
+    "references": [
+        "Luck9kr.Uisystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
