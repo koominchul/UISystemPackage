@@ -1,7 +1,7 @@
 {
   "name": "com.luck9kr.uisystem",
   "displayName": "UISystem",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "unity": "6000.3",
   "unityRelease": "14f1",
   "description": "Replace this with your own description of the package. \n\nFor best results, use this text to summarize: \n\u25aa What the package does \n\u25aa How it can benefit the user \n\nNote: Special formatting characters are supported, including line breaks ('\\n') and bullets ('\\u25AA').",
